@@ -4,8 +4,9 @@ let resumeData = {
     "role": "Frontend Developer",
     "emailID":"ilmakovacevic71@gmail.com",
     "Phonenumber":"+467 218 872 08",
-    "adressID":"Billebergavägen 141",
-    "CityID":"Annelöv",
+    "addressId":"Billebergavägen 141",
+    "CityId":"Annelöv",
+    "website":"tast",
     "roleDescription": "a mom to a little boy and a millenial.",
     "socialLinks":[
         {
@@ -19,11 +20,11 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am a student at Malmรถ Yrkeshรถgskola and Studying Frontend development and marketing. On my free time I like to spend time with my family and learn about new things. I like to spend time on my computer, right now my new project is learing more about linux and try out what I can do more with it. ",
+    "aboutme":"I am a student at Malmö Yrkeshögskola and Studying Frontend development and marketing. On my free time I like to spend time with my family and learn about new things. I like to spend time on my computer, right now my new project is learing more about linux and try out what I can do more with it. ",
     "address":"Sweden",
     "education":[
       {
-        "SchoolName":"Malmรถ Yrkeshรถgskola",
+        "SchoolName":"Malmö Yrkeshögskola",
         "specialization":"Frontend Developer",
         "MonthOfPassing":"Dec",
         "YearOfPassing":"2019"
@@ -38,7 +39,7 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Landskrona Stad",
-        "specialization":"Barnskรถtare",
+        "specialization":"Barnskötare",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2017"
       }
@@ -67,7 +68,7 @@ let resumeData = {
         "skillname":"Adobe package"
       },
       {
-        "skillname":"React Studio"
+        "skillname":"Studio React"
       }
     ],
     "portfolio":[
@@ -92,9 +93,10 @@ let resumeData = {
       },
       {
         "name":"Currecy Coverter",
-        "description":"Me and my group made a currency calculator in React, it calculates dirrerent currencies that is avalible in the app. You need to login to use it and to be able to save your favorite currencies, all of the data goes to firebase where it gets stored and pulls data from. This is my first project I made in React. Click on the picture to follow the link to the Github repo!",
+        "description":"Me and my group made a currency calculator in React, it calculates dirrerent currencies that is avalible in the app. You need to login to use it and to be able to save your favorite currencies, all of the data goes to firebase where it gets stored and pulls data from. This is my first project I made in React. Click on the picture to follow the link to the Github repo and site, there is also link to the site in the READ ME file!",
         "imgurl":"images/converter.jpg",
-        "urlimg":"https://github.com/LittleBaga/bananaconverters"
+        "urlimg":"https://github.com/LittleBaga/bananaconverters", 
+
       },
       {
         "name":"Portfolio",
