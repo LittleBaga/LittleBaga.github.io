@@ -102,7 +102,7 @@ let resumeData = {
         "name":"Portfolio",
         "description":"My first offical Portfolio! I made it with ReactJS, I plan to make a new one with React and Gatsby just to test the waters with Gatsby since many recommended it. Anyway, Click on the picture to follow the link to the Github repo!",
         "imgurl":"images/ex.jpg",
-        "urlimg":"https://github.com/LittleBaga/LittleBaga.github.io"
+        "urlimg":"https://github.com/LittleBaga/ilmasportfolio"
       }
     ],
         "Language":[
